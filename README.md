@@ -19,8 +19,9 @@ Here are some ideas to get you started:
 
 ## ⚡ Stats
 
-![NightmindOfficial's Stats](https://github-readme-stats.vercel.app/api?username=NightmindOfficial&theme=vue-dark&show_icons=true&hide_border=true&count_private=true) ![NightmindOfficial's Streak](https://github-readme-streak-stats.herokuapp.com/?user=NightmindOfficial&theme=vue-dark&hide_border=true)
+|![NightmindOfficial's Stats](https://github-readme-stats.vercel.app/api?username=NightmindOfficial&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)|![NightmindOfficial's Streak](https://github-readme-streak-stats.herokuapp.com/?user=NightmindOfficial&theme=vue-dark&hide_border=true)|
+| ---- | ---- |
 
 ## 📫 How to reach me
 
-Please message me directly on GitHub if you are trying to reach me for code-related topics.
+Please find updated and maintained contact information on my personal website linked in my profile.
